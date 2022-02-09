@@ -1,5 +1,5 @@
 // Assignment done by Raymond.Sabitti  and Grace.Nakazibwe.
-const {  assert } = require('chai');
+const { assert } = require('chai');
 const { describe, it } = require('mocha');
 const factorial = require('../factorial');
 
